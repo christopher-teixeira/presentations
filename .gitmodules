@@ -1,0 +1,9 @@
+[submodule "working-with-messy-data"]
+	path = working-with-messy-data
+	url = https://github.com/christopher-teixeira/working-with-messy-data.git
+[submodule "when-machine-learning-fails"]
+	path = when-machine-learning-fails
+	url = https://github.com/christopher-teixeira/when-machine-learning-fails.git
+[submodule "the-math-of-better-decisions"]
+	path = the-math-of-better-decisions
+	url = https://github.com/christopher-teixeira/the-math-of-better-decisions.git
